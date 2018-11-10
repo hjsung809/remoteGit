@@ -5,3 +5,5 @@ SourceTree와 GitHub를 이용해 Git을 배워 봅시다
 -SourceTree 사용법 익히기
 -Github에 계정 만들고 repo생성하기
 -오픈소스에 기여해보기
+
+바뀐바분
