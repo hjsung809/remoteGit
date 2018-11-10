@@ -6,5 +6,6 @@ Sublime Merge와 Gitlab을 이용하여 Git을 배울까나
 -Sublime Merge 알아보기
 -Github 원격저장소 생성하기
 -오픈소스에 기여해보기
+010-yyyy-yyyy
 
 바뀐바분
